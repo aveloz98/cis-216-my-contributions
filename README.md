@@ -7,7 +7,7 @@
 - [Windows Shortcuts](https://support.microsoft.com/en-us/windows/windows-keyboard-shortcuts-3d444b08-3a00-abd6-67da-ecfc07e86b98#ID0EBD=Windows_11)
 - [Mac Shortcuts](https://support.apple.com/en-us/102650)
 - [VSCode Documentation](https://code.visualstudio.com/Docs)
-- [GitHub](https://docs.github.com/en)
+- [GitHub Documentation](https://docs.github.com/en)
 
 ## Tools
 - [HTML Validator](https://validator.w3.org/)
