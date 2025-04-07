@@ -1,0 +1,59 @@
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #333;
+    text-align: center;
+}
+
+h2 {
+    color: #555;
+    font-size: 1.5em;
+    margin-top: 20px;
+}
+
+ol {
+    padding-left: 20px;
+    list-style-type: upper-roman;
+}
+
+a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Image styles */
+.bordered-image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    border: 2px solid black;
+    border-radius: 8px;
+    margin: 20px auto; /* Center the image */
+}
+
+/* Training list styles */
+.training-list {
+    list-style-type: decimal;
+    padding-left: 20px;
+}
