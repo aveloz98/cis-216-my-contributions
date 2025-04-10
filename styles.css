@@ -1,12 +1,31 @@
+<<<<<<< HEAD
+=======
+/* filepath: c:\Users\antho\Documents\projects\cis-216-sp25-online\cis-216-my-contributions\styles.css */
+>>>>>>> 6a1d93d696737d3a1abe88a71a1a18f930f7063a
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     margin: 0;
     padding: 0;
+<<<<<<< HEAD
     background-color: #f0f0f0; /* Changed to light gray */
     color: #333;
 }
 
+=======
+    background-color: #f0f0f0; /* Light gray background */
+    color: #333;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff; /* White background for content */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+>>>>>>> 6a1d93d696737d3a1abe88a71a1a18f930f7063a
 h1 {
     background-color: #333;
     color: #fff;
@@ -17,22 +36,43 @@ h1 {
 h2 {
     color: #444;
     margin-top: 20px;
+<<<<<<< HEAD
+=======
+    margin-bottom: 10px; /* Added spacing below headings */
+>>>>>>> 6a1d93d696737d3a1abe88a71a1a18f930f7063a
 }
 
 p {
     margin: 10px 20px;
+<<<<<<< HEAD
+=======
+    margin-bottom: 15px; /* Consistent spacing between paragraphs */
+>>>>>>> 6a1d93d696737d3a1abe88a71a1a18f930f7063a
 }
 
 ol {
     margin: 10px 20px;
     padding-left: 20px;
+<<<<<<< HEAD
+=======
+    margin-bottom: 20px; /* Added spacing below ordered lists */
+>>>>>>> 6a1d93d696737d3a1abe88a71a1a18f930f7063a
 }
 
 a {
     color: #007BFF;
     text-decoration: none;
+<<<<<<< HEAD
+=======
+    transition: color 0.3s ease; /* Smooth color transition on hover */
+>>>>>>> 6a1d93d696737d3a1abe88a71a1a18f930f7063a
 }
 
 a:hover {
     text-decoration: underline;
+<<<<<<< HEAD
 }
+=======
+    color: #0056b3; /* Darker blue for hover effect */
+}
+>>>>>>> 6a1d93d696737d3a1abe88a71a1a18f930f7063a
